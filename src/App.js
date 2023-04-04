@@ -13,7 +13,10 @@ export default function App() {
             open-sourced on GitHub
           </a>{" "}
           and{" "}
-          <a href="/" target="_blank">
+          <a
+            href="https://app.netlify.com/sites/splendid-mermaid-27493a"
+            target="_blank"
+          >
             hosted on Netlify
           </a>
         </footer>
