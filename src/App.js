@@ -9,13 +9,18 @@ export default function App() {
         <Weather defaultCity="Los Angeles" />
         <footer>
           This project was coded by Priscilla Soto and is{" "}
-          <a href="https://github.com/pmsoto/weather.react" target="_blank">
+          <a
+            href="https://github.com/pmsoto/weather.react"
+            target="_blank"
+            rel="noreferrer"
+          >
             open-sourced on GitHub
           </a>{" "}
           and{" "}
           <a
             href="https://app.netlify.com/sites/splendid-mermaid-27493a"
             target="_blank"
+            rel="noreferrer"
           >
             hosted on Netlify
           </a>
